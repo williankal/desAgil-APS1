@@ -10,9 +10,13 @@ public class Carrinho {
 	public Carrinho() {
 		this.pedidos = new ArrayList<>();
 	}
+	
 	public List<Pedido> getPedidos() {
 		return this.pedidos;
 	}
-	public void 
+	
+	public void addPedido(Pedido pedido) {
+		if 
+	}
 
 }
